@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>EnglishCentral 採用ページ</title>
+    <link>/</link>
+    <description>Recent content on EnglishCentral 採用ページ</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-JP</language>
+    <lastBuildDate>Fri, 25 Oct 2019 22:23:43 +0800</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>カスタマーサポート</title>
+      <link>/jobs/customer-support/</link>
+      <pubDate>Fri, 25 Oct 2019 22:23:43 +0800</pubDate>
+      
+      <guid>/jobs/customer-support/</guid>
+      <description>カスタマーサポートをお手伝いしていただきます。法人顧客および一般顧客のお問い合わせに対して、主にメールでサポートを行っていただく仕事です。</description>
+    </item>
+    
+    <item>
+      <title>バックエンドエンジニア</title>
+      <link>/jobs/engineer/</link>
+      <pubDate>Fri, 25 Oct 2019 22:23:43 +0800</pubDate>
+      
+      <guid>/jobs/engineer/</guid>
+      <description>エンジニアのお仕事です。</description>
+    </item>
+    
+    <item>
+      <title>法人ソリューション営業</title>
+      <link>/jobs/solution-sales/</link>
+      <pubDate>Fri, 25 Oct 2019 22:23:43 +0800</pubDate>
+      
+      <guid>/jobs/solution-sales/</guid>
+      <description>日本での大学採用実績200校以上、グローバルで360万人以上のユーザーを抱える、オンライン英語学習教材EnglishCentralの法人営業を担うお仕事です。</description>
+    </item>
+    
+  </channel>
+</rss>
